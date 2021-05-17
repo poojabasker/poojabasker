@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @poojabasker
 - 👀 I’m interested in Application Develeopment.
-- 🌱 I’m currently learning cool stuff about the MERN.
+- 🌱 I’m currently learning cool stuff about MERN.
 - 💞️ I’m looking to collaborate on small fun projects! 
 - 📫 How to reach me: @poojabasker20999@gmail.com
 
