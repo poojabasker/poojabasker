@@ -1,7 +1,7 @@
 ## Hello! 🌻
 - 👋 I’m @poojabasker
-- ✨ I’m interested in Application Develeopment and Cyber Security.
-- 🌱 I’m currently learning cool stuff about MERN and Ethical Hacking.
+- ✨ I’m interested in Mobile and Web Application Development.
+- 🌱 I’m currently learning cool stuff about MERN.
 - 👯 I’m looking to collaborate on small fun projects.
 - ⚡ Fun fact: I love to paint and play the violin!
 - 📫 How to reach me: poojabasker20999@gmail.com
